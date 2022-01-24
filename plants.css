@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: rosybrown;
+}
+a {
+    color: rgb(6, 95, 43);
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    background-color: tan;
+}
+a:hover {
+    cursor: pointer;
+    color: crimson;
+    font-style: italic;
+}
+#home {
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
+}
+#p1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+.links {
+    background-color: skyblue;
+}

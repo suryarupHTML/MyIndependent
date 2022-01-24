@@ -1,0 +1,19 @@
+body { 
+    text-align: center;
+    background-color: blanchedalmond;
+    background-image: url(https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+    backface-visibility: hidden;
+}
+h1{
+    color: darkgreen;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: fantasy;
+    position: relative;
+    margin-right: 350px;
+    margin-top: 200px;
+}
+h1:hover {
+    cursor: pointer;
+    color: yellowgreen;
+}
